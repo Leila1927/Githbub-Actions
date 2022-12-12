@@ -3,7 +3,7 @@ run-name: Testing GitHub Actions
 on:
   push:
     branches:
-      -main
+      - main
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
